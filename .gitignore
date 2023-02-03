@@ -1,0 +1,9 @@
+vendor/
+composer.phar
+composer.lock
+libphonenumber-data-dir/
+build/logs/
+src/
+build/
+docs/
+tests/
