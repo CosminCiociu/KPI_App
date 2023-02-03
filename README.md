@@ -1,5 +1,5 @@
 # KPI_App
-# TO RUN IT :
+## TO RUN IT :
 # Clone in /htdocs folder & run in terminal php -S "localhost:8000"
 # composer install
 # Check .env file and change to your enviroment
